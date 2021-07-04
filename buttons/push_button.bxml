@@ -1,0 +1,10 @@
+<buttons:PushButtons title="Push Buttons" maximized="false"
+xmlns:bxml="http://pivot.apache.org/bxml"
+xmlns:buttons="org.apache.pivot.tutorials.buttons"
+xmlns="org.apache.pivot.wtk">
+<Border>
+    <BoxPane styles="{padding:4, horizontalAlignment:'center', verticalAlignment:'center'}">
+        <PushButton bxml:id="pushButton" buttonData="hello"></PushButton>
+    </BoxPane>
+</Border>
+</buttons:PushButtons>

@@ -1,0 +1,9 @@
+<Window title="label" maximized="true" xmlns="org.apache.pivot.wtk">
+<BoxPane styles="{padding:100}">
+<Label text="label1"></Label>
+<Label text="label2" styles="{color:'green'}"></Label>
+<Label text="label3  " styles="{font:'Segoe Print italic 10', color:'#000000'}"></Label>
+<Label>label4</Label><!--can not display-->
+<Label text="label5"></Label>
+</BoxPane>
+</Window>

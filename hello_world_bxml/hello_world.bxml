@@ -1,0 +1,4 @@
+<Window title="hello world bxml" maximized="true" xmlns:bxml="http://pivot.apache.org/bxml" xmlns="org.apache.pivot.wtk">
+<Label text="hello world" styles="{font:'Segoe Print italic 24', color:'#000000', horizontalAlignment:'center', verticalAlignment:'center'}">
+</Label>
+</Window>
